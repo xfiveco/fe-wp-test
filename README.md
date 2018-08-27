@@ -11,7 +11,7 @@ Convert the following designs to HTML/CSS/JS/WordPress.
 1. Create project using [Chisel](https://www.getchisel.co/)
 1. Use HTML5 / SCSS
 1. Make it responsive using your best judgement
-1. Allow to choose thumbnail shape in WordPress admin
+1. Allow to choose thumbnail shape from the 4 predefined shapes (circle, square, rectangle, triangle) in the WordPress admin
 1. Create custom infinite scroll effect - use custom JavaScript and PHP, don't use existing infinite scroll WordPress plugins
 1. Enter enough sample images to demonstrate the effect
 
