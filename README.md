@@ -14,6 +14,9 @@ Convert the following designs to HTML/CSS/JS/WordPress.
 1. Allow to choose thumbnail shape from the 4 predefined shapes (circle, square, rectangle, triangle) in the WordPress admin
 1. Create custom infinite scroll effect - use custom JavaScript and PHP, don't use existing infinite scroll WordPress plugins
 1. Enter enough sample images to demonstrate the effect
+1. Make the page the smallest possible size - optimize images, disable jQuery or any other unnecessary scripts/stylesheets, etc.
+1. Set up a virtual host with your project repository name (eg. `yourname-fewp-test.test`) so we don't have search &amp; replace URLs when testing your project
+1. Store the whole WordPress installation into the test repository and also store a database dump to it.
 
 ## Design
 Design is available in [Figma](https://www.figma.com/) at https://www.figma.com/file/eND2gJEU1sXfKfHawR0LyH/Xfive-Front-end-WP-Test. If you haven't already, sign up for a free Figma account, so you can work with the design.
